@@ -66,4 +66,4 @@ Before you submit your Pull Request (PR) consider the following guidelines:
 1. Follow our [Coding Rules](#rules).
 1. Commit your changes using a descriptive commit message that follows our
   [commit message conventions](#commit). 
-1. In GitHub, send a pull request to `growmofo-server:dev`.
+1. In GitHub, send a pull request to `traverser-client:dev`.
