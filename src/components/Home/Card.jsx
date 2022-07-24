@@ -3,7 +3,7 @@ function Card(){
 
     return(
         // <div className="flex items-center justify-center min-h-screen">
-            <div className="max-w-md md:max-w-2xl px-2">
+            <div className="w-full px-2">
                 <div className="bg-white shadow-xl rounded-lg overflow-hidden md:flex">
                 <div
                     className="bg-cover bg-bottom h-56 md:h-auto md:w-56"
@@ -11,8 +11,10 @@ function Card(){
                     backgroundImage:
                         "url(https://images.unsplash.com/photo-1517736996303-4eec4a66bb17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80)"
                     }}
-                ></div>
-                <div>
+                >
+
+                </div>
+                <div className="w-full">
                     <div className="p-4 md:p-5">
                     <p className="font-bold text-xl md:text-2xl">
                         Amsterdam Walking Tour
