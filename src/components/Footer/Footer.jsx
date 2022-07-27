@@ -33,7 +33,7 @@ function Footer (){
                 </nav>
                 </div>
                 <hr className="my-10" />
-                  <div className="text-gray-600"><span className="font-medium">Company Inc</span> © 2021
+                  <div className="text-gray-600"><span className="font-medium">Company Inc</span> © {new Date().getFullYear()}
                 </div>
             </div>
         </footer>
